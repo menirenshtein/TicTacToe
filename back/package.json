@@ -9,7 +9,6 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@types/axios": "^0.9.36",
     "@types/bcrypt": "^5.0.2",
@@ -29,5 +28,6 @@
     "jsonfile": "^6.1.0",
     "nodemon": "^3.1.7",
     "uuidv4": "^6.2.13"
-  }
+  },
+  "description": ""
 }
